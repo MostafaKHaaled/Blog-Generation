@@ -3,7 +3,7 @@ Generate a Blog on Any Topic
 Model using 
 * get-2 medium for text generation
 * diffusers (LCMScheduler, AutoPipelineForText2Image ) for image generation
-* Using prompt engineer
+* Using the prompt engineer
 * last option add text to read this Text 
 ## I used to deploy it in streamlit
 <h>
