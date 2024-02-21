@@ -5,8 +5,8 @@ Model using
 * diffusers (LCMScheduler, AutoPipelineForText2Image ) for image generation
 * Using the prompt engineer
 * I added an audio option so that you can hear the text
-* 
-## I used to deploy it in streamlit
+  
+## I utilized Streamlit for deployment.
 <h>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original-wordmark.svg" title="streamlit" alt="streamlit" width="40" height="40"/> 
