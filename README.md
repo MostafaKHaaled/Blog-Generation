@@ -4,7 +4,8 @@ Model using
 * get-2 medium for text generation
 * diffusers (LCMScheduler, AutoPipelineForText2Image ) for image generation
 * Using the prompt engineer
-* last option add text to read this Text 
+* I added an audio option so that you can hear the text
+* 
 ## I used to deploy it in streamlit
 <h>
 <div>
